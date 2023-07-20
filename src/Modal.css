@@ -1,0 +1,23 @@
+.modal{
+    padding: 30px;
+    max-width: 480px;
+    margin: 200px auto;
+    background: #acc617;
+    border-radius: 10px;
+}
+.clic{
+    background-color: blue;
+    color: azure;
+    width: 180px;
+    height: 40px;
+    border-radius: 10px;
+    font-size: 30px;
+}
+.btn {
+    background-color: chartreuse;
+    width: 150px;
+    height: 40px;
+    border-radius: 10px;
+    font-size: 35px;
+    margin-left: 300px;
+}

@@ -1,0 +1,11 @@
+.content{
+    border: 1px solid red;
+    margin: auto;
+    width: 800px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 30px;
+    border-radius: 10px;
+}
